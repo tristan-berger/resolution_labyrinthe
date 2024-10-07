@@ -1,7 +1,7 @@
 # Resolution Labyrinthe
 Projet réalisé en troisième année de BUT informatique. L'objectif est de créer une IHM (interface) en java modélisant un labyrinthe. Puis implémenter différents algorithmes pour résoudre celui-ci.  
 
-## Instalation
+## Installation
 Une archive jar est présente, pour rapidement tester le projet.
 Sinon le code source est disponible.
 
